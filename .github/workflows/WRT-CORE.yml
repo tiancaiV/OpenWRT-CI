@@ -1,9 +1,9 @@
 #云编译公用核心
 name: WRT-CORE
 
-on:
-  workflow_call:
-    inputs:
+#on:
+  #workflow_call:
+   # inputs:
       WRT_CONFIG:
         required: true
         type: string
