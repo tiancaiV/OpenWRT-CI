@@ -2,9 +2,9 @@
 name: WRT-TEST
 
 #CI计划
-on:
+#on:
   #手动编译
-  workflow_dispatch:
+ # workflow_dispatch:
     inputs:
       CONFIG:
         default: 'MEDIATEK'
